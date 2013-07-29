@@ -1,0 +1,35 @@
+[33mcommit 048c0a2e9742855828d11e73704e1e7331a4ddc2[m
+Author: sneh <sapandya92@yahoo.co.in>
+Date:   Mon Jul 29 23:05:31 2013 +0530
+
+    finish layout
+
+[33mcommit d191bce14a0c22bc6f66a1c555fa1b8575a0803f[m
+Author: sneh <sapandya92@yahoo.co.in>
+Date:   Mon Jul 29 19:18:37 2013 +0530
+
+    changes to ruby 1.9 style
+
+[33mcommit b9e5f83d0dac3e27b8060c6796fdf253db372640[m
+Author: sneh <sapandya92@yahoo.co.in>
+Date:   Sun Jul 28 15:57:58 2013 +0530
+
+    finish static pages
+
+[33mcommit 632e9e61455dec8fef93409830c04123904579c2[m
+Author: sneh <sapandya92@yahoo.co.in>
+Date:   Sun Jul 28 15:01:29 2013 +0530
+
+    add a pages controller
+
+[33mcommit 4f9da05dcb5ee93e8f59ffea9adc69b42340cd78[m
+Author: sneh <sapandya92@yahoo.co.in>
+Date:   Sun Jul 28 14:29:31 2013 +0530
+
+    improved the README
+
+[33mcommit 6d182abdade1c992909695dfa0654bbd42cd52fc[m
+Author: sneh <sapandya92@yahoo.co.in>
+Date:   Sun Jul 28 14:15:31 2013 +0530
+
+    initial stage

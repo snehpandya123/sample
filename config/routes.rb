@@ -12,7 +12,7 @@ Sample::Application.routes.draw do
   
   
 
-
+  match '/signup_path', :to=> 'users#new'
 
   
 
